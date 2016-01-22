@@ -12,3 +12,4 @@ grep 指令后跟 “-P" 参数，则表示要使用 “PREs"
 ###三、3种类型正则表达式比较
 注意Python的re模块提供的就是PRE.
 [BRE/ERE/PRE比较](http://www.cnblogs.com/chengmo/archive/2010/10/10/1847287.html)
+
